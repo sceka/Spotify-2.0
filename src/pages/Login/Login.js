@@ -1,7 +1,7 @@
 import React from "react";
 import "./Login.css";
-import spotify from "./assets/spotify.png";
-import { loginUrl } from "./spotify";
+import spotify from "../../assets/spotify.png";
+import { loginUrl } from "../../spotify";
 const Login = () => {
     return (
         <div className="login">
